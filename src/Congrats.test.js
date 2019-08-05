@@ -10,6 +10,7 @@ const defaultProps = {
 
 /**
  * Factory function to create a ShallowWrapper for the Congrats component.
+ * @function setup
  * @param {object} props Component props speccific to this setup
  * @returns {ShallowWrapper}
  */
